@@ -1,0 +1,15 @@
+# GKE Cluster Security Hardening Baseline
+
+---
+**Author:** Joabson Saccomani ([@jsaccomani](https://github.com/g-jsaccomani))  
+**Role:** Cloud Security Consultant  
+**LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)  
+*Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved. Distributed under the Apache License 2.0.*
+
+
+Module responsible for foundational Kubernetes security, aligned with **CIS GCP Foundations Benchmark (Section 4)** and **CIS GKE Benchmark**.
+
+## Cluster Hardening Guidelines:
+1. **Private GKE Clusters:** Enforce private nodes and restricted control plane authorized networks.
+2. **Workload Identity:** Enable GKE Workload Identity on all node pools.
+3. **Dataplane V2:** Enable Cilium-powered eBPF Dataplane V2 for network isolation and monitoring.
