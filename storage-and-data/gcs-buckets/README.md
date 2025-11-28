@@ -1,0 +1,14 @@
+# Cloud Storage (GCS) Security Hardening Baseline
+
+---
+**Author:** Joabson Saccomani ([@jsaccomani](https://github.com/g-jsaccomani))  
+**Role:** Cloud Security Consultant  
+**LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)  
+*Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved. Distributed under the Apache License 2.0.*
+
+
+Module responsible for Cloud Storage protection, aligned with **CIS GCP Foundations Benchmark (Section 5)**.
+
+## Storage Hardening Guidelines:
+1. **Uniform Bucket-Level Access (UBLA):** Enforce UBLA across all buckets.
+2. **Public Access Prevention (PAP):** Enforce PAP to prevent anonymous or public access.
