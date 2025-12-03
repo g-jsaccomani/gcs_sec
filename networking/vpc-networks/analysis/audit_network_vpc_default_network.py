@@ -84,3 +84,5 @@ def audit_default_vpc():
 
 if __name__ == "__main__":
     audit_default_vpc()
+
+# Audit checkpoint [2025-12-03]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
