@@ -8,3 +8,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-04] sec(lifecycle): automate lifecycle management rule audit for client compliance archive
 - Implemented audit tool to inspect Nearline and Coldline storage tiering policies.
 
+### [2025-12-04] fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
+- Identified and removed orphaned service account ACL grants discovered during security baseline check.
+

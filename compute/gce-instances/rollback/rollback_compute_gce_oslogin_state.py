@@ -48,3 +48,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Audit checkpoint [2025-12-04]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
