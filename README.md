@@ -57,3 +57,5 @@ gcs_sec/
 **LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved. Distributed under the Apache License 2.0.*
 
+
+<!-- Checkpoint: 2025-12-08 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
