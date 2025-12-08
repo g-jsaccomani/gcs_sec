@@ -43,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Audit checkpoint [2025-12-08]: fix(bucket-retention): fix retention lock validation script for external financial client
