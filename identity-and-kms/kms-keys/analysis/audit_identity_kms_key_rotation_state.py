@@ -100,3 +100,5 @@ def audit_kms_rotation():
 
 if __name__ == "__main__":
     audit_kms_rotation()
+
+# Audit checkpoint [2025-12-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
