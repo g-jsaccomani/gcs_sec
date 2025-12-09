@@ -61,3 +61,5 @@ This document outlines consolidated best practices (CIS Google Cloud Foundation 
 **LinkedIn:** [linkedin.com/in/jsaccomani](https://www.linkedin.com/in/jsaccomani)
 *Copyright © 2026 Google LLC / Joabson Saccomani. All rights reserved. Distributed under the Apache License 2.0.*
 
+
+<!-- Checkpoint: 2025-12-09 - docs(runbook): add client incident response playbook for public bucket alerts -->
