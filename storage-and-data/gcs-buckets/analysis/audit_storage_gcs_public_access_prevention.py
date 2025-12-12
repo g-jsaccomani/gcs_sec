@@ -44,3 +44,5 @@ def main():
 if __name__ == "__main__":
     main()
 # Audit checkpoint [2025-12-08]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2025-12-12]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
