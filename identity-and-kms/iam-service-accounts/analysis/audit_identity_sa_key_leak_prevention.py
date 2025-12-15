@@ -97,3 +97,5 @@ def audit_sa_keys():
 
 if __name__ == "__main__":
     audit_sa_keys()
+
+# Audit checkpoint [2025-12-15]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
