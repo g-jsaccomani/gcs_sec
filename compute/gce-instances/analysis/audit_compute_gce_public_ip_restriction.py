@@ -100,3 +100,5 @@ def audit_public_ips():
 
 if __name__ == "__main__":
     audit_public_ips()
+
+# Audit checkpoint [2025-12-17]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
