@@ -95,3 +95,5 @@ def audit_sql_ssl():
 
 if __name__ == "__main__":
     audit_sql_ssl()
+
+# Audit checkpoint [2025-12-17]: fix(bucket-retention): fix retention lock validation script for external financial client
