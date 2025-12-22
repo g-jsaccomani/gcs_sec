@@ -13,3 +13,5 @@ Module responsible for foundational Kubernetes security, aligned with **CIS GCP 
 1. **Private GKE Clusters:** Enforce private nodes and restricted control plane authorized networks.
 2. **Workload Identity:** Enable GKE Workload Identity on all node pools.
 3. **Dataplane V2:** Enable Cilium-powered eBPF Dataplane V2 for network isolation and monitoring.
+
+<!-- Checkpoint: 2025-12-22 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
