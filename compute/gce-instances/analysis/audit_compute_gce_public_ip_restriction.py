@@ -102,3 +102,5 @@ if __name__ == "__main__":
     audit_public_ips()
 
 # Audit checkpoint [2025-12-17]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+
+# Audit checkpoint [2025-12-22]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
