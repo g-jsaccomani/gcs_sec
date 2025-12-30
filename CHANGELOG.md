@@ -80,3 +80,6 @@ All notable changes and security updates recorded below.
 ### [2025-12-30] fix(bucket-retention): fix retention lock validation script for external financial client
 - Corrected duration parsing bug in Bucket Lock compliance policy validator.
 
+### [2025-12-30] feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+- Connected Cloud Storage object finalization triggers with Cloud DLP inspection templates.
+

@@ -99,3 +99,5 @@ if __name__ == "__main__":
     audit_sa_keys()
 
 # Audit checkpoint [2025-12-15]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
+
+# Audit checkpoint [2025-12-30]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
