@@ -13,3 +13,5 @@ Module responsible for hardening relational database instances (PostgreSQL, MySQ
 1. **Private IP Only (CIS 6.5 / 6.6):** Disable public IP whitelists (`0.0.0.0/0`). Database traffic must route strictly via Private Service Connect or Private Services Access in VPC subnets.
 2. **Enforce Encryption in Transit (CIS 6.4):** Enforce SSL/TLS certificates for all client connections.
 3. **Automated Daily Backups (CIS 6.7):** Maintain automated, versioned daily backups with point-in-time recovery.
+
+<!-- Checkpoint: 2026-01-02 - docs(runbook): add client incident response playbook for public bucket alerts -->
