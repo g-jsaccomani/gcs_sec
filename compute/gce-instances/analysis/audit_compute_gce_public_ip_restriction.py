@@ -106,3 +106,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2025-12-22]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
 
 # Audit checkpoint [2025-12-23]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
+
+# Audit checkpoint [2026-01-03]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
