@@ -12,3 +12,5 @@ Module responsible for cryptographic key governance, aligned with **CIS GCP Foun
 ## KMS Hardening Guidelines:
 1. **Automated Key Rotation (CIS 1.9):** Enforce automatic rotation schedules of 90 days or less on all cryptographic keys.
 2. **Separation of Duties:** Restrict `roles/cloudkms.cryptoKeyDecrypter` and `roles/cloudkms.admin` to distinct service principles.
+
+<!-- Checkpoint: 2026-01-05 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
