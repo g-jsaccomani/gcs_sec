@@ -97,3 +97,5 @@ if __name__ == "__main__":
     audit_sql_ssl()
 
 # Audit checkpoint [2025-12-17]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2026-01-11]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
