@@ -12,3 +12,5 @@ Module responsible for VPC topology and flow logs, aligned with **CIS GCP Founda
 ## Networking Hardening Guidelines:
 1. **Disable Default VPC:** Delete default networks and deploy custom VPC topologies with distinct subnets.
 2. **VPC Flow Logs:** Enable flow logs with appropriate sampling rates on all production subnets.
+
+<!-- Checkpoint: 2026-01-23 - docs(runbook): add client incident response playbook for public bucket alerts -->
