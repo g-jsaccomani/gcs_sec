@@ -47,3 +47,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-01-19]: fix(bucket-retention): fix retention lock validation script for external financial client
 
 # Audit checkpoint [2026-01-20]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+
+# Audit checkpoint [2026-01-23]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
