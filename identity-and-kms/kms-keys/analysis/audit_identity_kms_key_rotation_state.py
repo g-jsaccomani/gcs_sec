@@ -102,3 +102,5 @@ if __name__ == "__main__":
     audit_kms_rotation()
 
 # Audit checkpoint [2025-12-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
+
+# Audit checkpoint [2026-01-26]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
