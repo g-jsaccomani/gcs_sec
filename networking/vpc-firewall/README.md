@@ -13,3 +13,5 @@ Module responsible for management port security and network defense, aligned wit
 1. **Block Ingress SSH & RDP Globally (CIS 3.6 / 3.7):** Ingress rules allowing administrative ports (22, 3389) from `0.0.0.0/0` are strictly prohibited. Access must route through Identity-Aware Proxy (IAP) Bastion Hosts (CIDR: `35.235.240.0/20`).
 
 <!-- Checkpoint: 2025-12-19 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-01-27 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
