@@ -86,3 +86,5 @@ if __name__ == "__main__":
     audit_default_vpc()
 
 # Audit checkpoint [2025-12-03]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
+
+# Audit checkpoint [2026-01-29]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
