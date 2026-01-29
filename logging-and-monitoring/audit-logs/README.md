@@ -12,3 +12,5 @@ Module responsible for central audit telemetry and threat detection, aligned wit
 ## Audit Logging Guidelines:
 1. **Data Access Audit Logs:** Enable Data Read, Data Write, and Admin Activity logs across all core GCP services.
 2. **Log Router Sinks:** Stream centralized audit logs into BigQuery and Google SecOps.
+
+<!-- Checkpoint: 2026-01-29 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
