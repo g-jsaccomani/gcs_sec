@@ -250,3 +250,5 @@ gcs_compliance_agent = adk_agents.LlmAgent(
     """,
     tools=[audit_environment_gcs_posture]
 )
+
+# Audit checkpoint [2026-01-29]: fix(bucket-retention): fix retention lock validation script for external financial client
