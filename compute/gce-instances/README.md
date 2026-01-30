@@ -13,3 +13,5 @@ Module responsible for securing virtual machine instances, aligned with **CIS GC
 1. **Shielded VM Enforcement:** Enable Secure Boot, vTPM, and Integrity Monitoring on all Compute Engine instances.
 2. **OS Login Enforcement:** Manage SSH keys centrally via Google Cloud IAM OS Login.
 3. **Restrict Public IPs:** VM instances must reside on private subnets with Cloud NAT for outbound internet access.
+
+<!-- Checkpoint: 2026-01-30 - docs(runbook): add client incident response playbook for public bucket alerts -->
