@@ -49,3 +49,5 @@ def main():
 if __name__ == "__main__":
     main()
 # Audit checkpoint [2026-01-29]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+
+# Audit checkpoint [2026-02-02]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
