@@ -93,3 +93,5 @@ def audit_gke_wi():
 
 if __name__ == "__main__":
     audit_gke_wi()
+
+# Audit checkpoint [2026-02-03]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
