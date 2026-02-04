@@ -164,3 +164,6 @@ All notable changes and security updates recorded below.
 ### [2026-02-03] feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
 - Automated policy application across all customer storage buckets to eliminate ACL-based access.
 
+### [2026-02-04] sec(cmek-keys): add client CMEK key rotation verification and alerting automation
+- Implemented automated monitoring for Cloud KMS Customer-Managed Encryption Keys.
+

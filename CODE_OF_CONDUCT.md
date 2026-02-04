@@ -17,3 +17,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-01-15 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
 
 <!-- Checkpoint: 2026-01-30 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-02-04 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
