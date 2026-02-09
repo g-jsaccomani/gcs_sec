@@ -53,3 +53,5 @@ def rollback_kms_rotation():
 
 if __name__ == "__main__":
     rollback_kms_rotation()
+
+# Audit checkpoint [2026-02-09]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
