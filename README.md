@@ -59,3 +59,5 @@ gcs_sec/
 
 
 <!-- Checkpoint: 2025-12-08 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-02-09 - docs(runbook): add client incident response playbook for public bucket alerts -->
