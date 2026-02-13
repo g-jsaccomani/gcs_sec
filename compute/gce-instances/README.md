@@ -15,3 +15,5 @@ Module responsible for securing virtual machine instances, aligned with **CIS GC
 3. **Restrict Public IPs:** VM instances must reside on private subnets with Cloud NAT for outbound internet access.
 
 <!-- Checkpoint: 2026-01-30 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-02-13 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
