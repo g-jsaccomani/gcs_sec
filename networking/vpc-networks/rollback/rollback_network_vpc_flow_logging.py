@@ -77,3 +77,5 @@ if __name__ == "__main__":
     rollback_vpc_flow_logging()
 
 # Audit checkpoint [2026-02-15]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2026-02-15]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
