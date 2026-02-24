@@ -14,3 +14,5 @@ Module responsible for cryptographic key governance, aligned with **CIS GCP Foun
 2. **Separation of Duties:** Restrict `roles/cloudkms.cryptoKeyDecrypter` and `roles/cloudkms.admin` to distinct service principles.
 
 <!-- Checkpoint: 2026-01-05 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-02-24 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
