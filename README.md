@@ -63,3 +63,5 @@ gcs_sec/
 <!-- Checkpoint: 2026-02-09 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-02-18 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-02-26 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
