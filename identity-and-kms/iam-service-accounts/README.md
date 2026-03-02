@@ -14,3 +14,5 @@ Module dedicated to securing project Service Accounts (SAs), aligned with **CIS 
 2. **Least Privilege Binding:** Grant fine-grained, predefined or custom IAM roles instead of primitive `roles/editor` or `roles/owner`.
 
 <!-- Checkpoint: 2026-01-21 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-03-02 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
