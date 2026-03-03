@@ -48,3 +48,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2025-12-12]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
 
 # Audit checkpoint [2026-02-24]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
+
+# Audit checkpoint [2026-03-03]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
