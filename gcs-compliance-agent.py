@@ -252,3 +252,5 @@ gcs_compliance_agent = adk_agents.LlmAgent(
 )
 
 # Audit checkpoint [2026-01-29]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2026-03-05]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
