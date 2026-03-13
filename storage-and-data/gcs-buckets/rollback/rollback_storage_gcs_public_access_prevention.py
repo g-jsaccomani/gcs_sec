@@ -53,3 +53,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-02-02]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
 
 # Audit checkpoint [2026-02-05]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2026-03-13]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
