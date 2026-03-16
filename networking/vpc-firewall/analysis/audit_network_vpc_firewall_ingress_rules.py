@@ -98,3 +98,5 @@ def audit_firewall_rules():
 
 if __name__ == "__main__":
     audit_firewall_rules()
+
+# Audit checkpoint [2026-03-16]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
