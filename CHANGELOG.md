@@ -311,3 +311,6 @@ All notable changes and security updates recorded below.
 ### [2026-03-16] fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
 - Identified and removed orphaned service account ACL grants discovered during security baseline check.
 
+### [2026-03-17] feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
+- Automated policy application across all customer storage buckets to eliminate ACL-based access.
+
