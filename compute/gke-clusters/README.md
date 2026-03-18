@@ -21,3 +21,5 @@ Module responsible for foundational Kubernetes security, aligned with **CIS GCP 
 <!-- Checkpoint: 2026-02-09 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-03-06 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-03-18 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
