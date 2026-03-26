@@ -14,3 +14,5 @@ Module responsible for central audit telemetry and threat detection, aligned wit
 2. **Log Router Sinks:** Stream centralized audit logs into BigQuery and Google SecOps.
 
 <!-- Checkpoint: 2026-01-29 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-03-26 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
