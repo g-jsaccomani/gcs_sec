@@ -20,3 +20,5 @@ Module responsible for VPC topology and flow logs, aligned with **CIS GCP Founda
 <!-- Checkpoint: 2026-03-16 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-03-23 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-03-29 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
