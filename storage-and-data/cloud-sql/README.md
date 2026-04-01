@@ -15,3 +15,5 @@ Module responsible for hardening relational database instances (PostgreSQL, MySQ
 3. **Automated Daily Backups (CIS 6.7):** Maintain automated, versioned daily backups with point-in-time recovery.
 
 <!-- Checkpoint: 2026-01-02 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-04-01 - docs(runbook): add client incident response playbook for public bucket alerts -->
