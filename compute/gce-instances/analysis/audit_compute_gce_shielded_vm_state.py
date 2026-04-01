@@ -97,3 +97,5 @@ def audit_shielded_vms():
 
 if __name__ == "__main__":
     audit_shielded_vms()
+
+# Audit checkpoint [2026-04-01]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
