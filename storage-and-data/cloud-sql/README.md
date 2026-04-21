@@ -17,3 +17,5 @@ Module responsible for hardening relational database instances (PostgreSQL, MySQ
 <!-- Checkpoint: 2026-01-02 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-04-01 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-04-21 - docs(runbook): add client incident response playbook for public bucket alerts -->
