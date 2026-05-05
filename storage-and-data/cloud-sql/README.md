@@ -19,3 +19,5 @@ Module responsible for hardening relational database instances (PostgreSQL, MySQ
 <!-- Checkpoint: 2026-04-01 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-04-21 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-05-05 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
