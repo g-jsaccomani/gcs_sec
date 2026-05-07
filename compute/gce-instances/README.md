@@ -21,3 +21,5 @@ Module responsible for securing virtual machine instances, aligned with **CIS GC
 <!-- Checkpoint: 2026-04-13 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
 
 <!-- Checkpoint: 2026-05-04 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-05-07 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
