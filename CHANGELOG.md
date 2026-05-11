@@ -473,3 +473,6 @@ All notable changes and security updates recorded below.
 ### [2026-05-11] feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
 - Connected Cloud Storage object finalization triggers with Cloud DLP inspection templates.
 
+### [2026-05-11] sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets
+- Configured VPC Service Controls ingress and egress rules for BigQuery and GCS datasets.
+
