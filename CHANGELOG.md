@@ -476,3 +476,6 @@ All notable changes and security updates recorded below.
 ### [2026-05-11] sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets
 - Configured VPC Service Controls ingress and egress rules for BigQuery and GCS datasets.
 
+### [2026-05-11] refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
+- Refactored Terraform policy validator to enforce storage.publicAccessPrevention and storage.restrictAuthTypes.
+
