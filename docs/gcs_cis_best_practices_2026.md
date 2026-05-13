@@ -65,3 +65,5 @@ This document outlines consolidated best practices (CIS Google Cloud Foundation 
 <!-- Checkpoint: 2025-12-09 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-03-04 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-05-13 - docs(runbook): add client incident response playbook for public bucket alerts -->
