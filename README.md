@@ -71,3 +71,5 @@ gcs_sec/
 <!-- Checkpoint: 2026-04-09 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
 
 <!-- Checkpoint: 2026-04-13 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-05-16 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
