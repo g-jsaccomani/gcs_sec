@@ -256,3 +256,5 @@ gcs_compliance_agent = adk_agents.LlmAgent(
 # Audit checkpoint [2026-03-05]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
 
 # Audit checkpoint [2026-04-30]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+
+# Audit checkpoint [2026-05-18]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
