@@ -98,3 +98,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-03-25]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
 
 # Audit checkpoint [2026-05-05]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
+
+# Audit checkpoint [2026-05-20]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
