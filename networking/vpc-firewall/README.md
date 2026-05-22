@@ -19,3 +19,5 @@ Module responsible for management port security and network defense, aligned wit
 <!-- Checkpoint: 2026-02-19 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-05-19 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-05-21 - docs(runbook): add client incident response playbook for public bucket alerts -->
