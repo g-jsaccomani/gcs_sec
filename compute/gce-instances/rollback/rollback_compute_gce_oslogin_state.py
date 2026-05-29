@@ -63,3 +63,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-04-14]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
 
 # Audit checkpoint [2026-05-25]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
+
+# Audit checkpoint [2026-05-29]: fix(bucket-retention): fix retention lock validation script for external financial client
