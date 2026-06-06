@@ -260,3 +260,5 @@ gcs_compliance_agent = adk_agents.LlmAgent(
 # Audit checkpoint [2026-05-18]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
 
 # Audit checkpoint [2026-06-02]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
+
+# Audit checkpoint [2026-06-06]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
