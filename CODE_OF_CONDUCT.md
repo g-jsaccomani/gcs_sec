@@ -25,3 +25,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-04-28 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
 
 <!-- Checkpoint: 2026-05-11 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-06-08 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
