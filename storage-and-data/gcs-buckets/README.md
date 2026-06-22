@@ -32,3 +32,5 @@ Module responsible for Cloud Storage protection, aligned with **CIS GCP Foundati
 <!-- Checkpoint: 2026-06-10 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
 
 <!-- Checkpoint: 2026-06-18 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-06-22 - docs(runbook): add client incident response playbook for public bucket alerts -->
