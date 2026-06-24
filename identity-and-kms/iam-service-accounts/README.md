@@ -18,3 +18,5 @@ Module dedicated to securing project Service Accounts (SAs), aligned with **CIS 
 <!-- Checkpoint: 2026-03-02 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
 
 <!-- Checkpoint: 2026-04-22 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-06-23 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
