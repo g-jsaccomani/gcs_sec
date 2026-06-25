@@ -106,3 +106,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-04-22]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
 
 # Audit checkpoint [2026-05-08]: fix(bucket-retention): fix retention lock validation script for external financial client
+
+# Audit checkpoint [2026-06-25]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
