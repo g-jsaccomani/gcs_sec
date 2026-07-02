@@ -75,3 +75,5 @@ gcs_sec/
 <!-- Checkpoint: 2026-05-16 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
 
 <!-- Checkpoint: 2026-05-24 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-07-02 - docs(runbook): add client incident response playbook for public bucket alerts -->
