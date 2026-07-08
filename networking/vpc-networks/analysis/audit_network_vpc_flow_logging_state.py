@@ -99,3 +99,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-02-17]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
 
 # Audit checkpoint [2026-05-02]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
+
+# Audit checkpoint [2026-07-08]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
