@@ -266,3 +266,5 @@ gcs_compliance_agent = adk_agents.LlmAgent(
 # Audit checkpoint [2026-06-19]: fix(bucket-retention): fix retention lock validation script for external financial client
 
 # Audit checkpoint [2026-06-19]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
+
+# Audit checkpoint [2026-07-13]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
