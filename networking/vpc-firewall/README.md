@@ -23,3 +23,5 @@ Module responsible for management port security and network defense, aligned wit
 <!-- Checkpoint: 2026-05-21 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-06-30 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-07-15 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
