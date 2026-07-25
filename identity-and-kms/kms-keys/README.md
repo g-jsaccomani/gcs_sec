@@ -26,3 +26,5 @@ Module responsible for cryptographic key governance, aligned with **CIS GCP Foun
 <!-- Checkpoint: 2026-06-19 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
 
 <!-- Checkpoint: 2026-07-23 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-07-25 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
