@@ -31,3 +31,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-07-09 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
 
 <!-- Checkpoint: 2026-07-10 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-07-28 - docs(runbook): add client incident response playbook for public bucket alerts -->
