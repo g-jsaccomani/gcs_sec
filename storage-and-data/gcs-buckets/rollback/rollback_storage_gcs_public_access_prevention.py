@@ -63,3 +63,5 @@ if __name__ == "__main__":
 # Audit checkpoint [2026-06-01]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
 
 # Audit checkpoint [2026-06-17]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
+
+# Audit checkpoint [2026-07-29]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
