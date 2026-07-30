@@ -23,3 +23,5 @@ Module responsible for hardening relational database instances (PostgreSQL, MySQ
 <!-- Checkpoint: 2026-05-05 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-06-02 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
+
+<!-- Checkpoint: 2026-07-29 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
