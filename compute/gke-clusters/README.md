@@ -27,3 +27,5 @@ Module responsible for foundational Kubernetes security, aligned with **CIS GCP 
 <!-- Checkpoint: 2026-03-24 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-06-16 - docs(runbook): add client incident response playbook for public bucket alerts -->
+
+<!-- Checkpoint: 2026-08-03 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
