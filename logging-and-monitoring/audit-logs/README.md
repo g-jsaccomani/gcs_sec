@@ -22,3 +22,5 @@ Module responsible for central audit telemetry and threat detection, aligned wit
 <!-- Checkpoint: 2026-05-01 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
 
 <!-- Checkpoint: 2026-07-13 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
+
+<!-- Checkpoint: 2026-08-04 - docs(runbook): add client incident response playbook for public bucket alerts -->
