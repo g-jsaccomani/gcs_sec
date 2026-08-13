@@ -25,3 +25,5 @@ Your report will be evaluated and responded to as soon as possible.
 <!-- Checkpoint: 2026-07-06 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
 
 <!-- Checkpoint: 2026-08-07 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-08-13 - docs(runbook): add client incident response playbook for public bucket alerts -->

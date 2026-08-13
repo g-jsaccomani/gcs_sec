@@ -779,3 +779,6 @@ All notable changes and security updates recorded below.
 ### [2026-08-12] refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
 - Refactored Terraform policy validator to enforce storage.publicAccessPrevention and storage.restrictAuthTypes.
 
+### [2026-08-13] docs(runbook): add client incident response playbook for public bucket alerts
+- Delivered comprehensive operational guide for handling unauthorized storage access notifications.
+
