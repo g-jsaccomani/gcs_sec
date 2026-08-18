@@ -35,3 +35,5 @@ Examples of behavior that contributes to a positive environment include:
 <!-- Checkpoint: 2026-07-28 - docs(runbook): add client incident response playbook for public bucket alerts -->
 
 <!-- Checkpoint: 2026-07-31 - sec(cmek-keys): add client CMEK key rotation verification and alerting automation -->
+
+<!-- Checkpoint: 2026-08-18 - docs(runbook): add client incident response playbook for public bucket alerts -->
