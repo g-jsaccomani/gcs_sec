@@ -812,3 +812,6 @@ All notable changes and security updates recorded below.
 ### [2026-08-18] docs(runbook): add client incident response playbook for public bucket alerts
 - Delivered comprehensive operational guide for handling unauthorized storage access notifications.
 
+### [2026-08-18] feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
+- Created Pub/Sub log sink streaming storage DATA_READ and DATA_WRITE audit events.
+
