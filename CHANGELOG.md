@@ -827,3 +827,6 @@ All notable changes and security updates recorded below.
 ### [2026-08-20] sec(cmek-keys): add client CMEK key rotation verification and alerting automation
 - Implemented automated monitoring for Cloud KMS Customer-Managed Encryption Keys.
 
+### [2026-08-20] fix(bucket-retention): fix retention lock validation script for external financial client
+- Corrected duration parsing bug in Bucket Lock compliance policy validator.
+
