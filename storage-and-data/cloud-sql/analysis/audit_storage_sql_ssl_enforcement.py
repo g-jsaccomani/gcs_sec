@@ -95,23 +95,3 @@ def audit_sql_ssl():
 
 if __name__ == "__main__":
     audit_sql_ssl()
-
-# Audit checkpoint [2025-12-17]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-01-11]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-01-26]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-02-19]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-03-04]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-03-17]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-04-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-04-23]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-07-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-07-10]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM

@@ -98,25 +98,3 @@ def audit_project_audit_logs():
 
 if __name__ == "__main__":
     audit_project_audit_logs()
-
-# Audit checkpoint [2025-12-08]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2025-12-14]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2025-12-30]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-01-12]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-05-06]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-05-11]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-06-06]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-07-07]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-07-16]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-08-17]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-08-20]: fix(bucket-retention): fix retention lock validation script for external financial client

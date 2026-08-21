@@ -12,17 +12,3 @@ Module responsible for VPC topology and flow logs, aligned with **CIS GCP Founda
 ## Networking Hardening Guidelines:
 1. **Disable Default VPC:** Delete default networks and deploy custom VPC topologies with distinct subnets.
 2. **VPC Flow Logs:** Enable flow logs with appropriate sampling rates on all production subnets.
-
-<!-- Checkpoint: 2026-01-23 - docs(runbook): add client incident response playbook for public bucket alerts -->
-
-<!-- Checkpoint: 2026-03-10 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
-
-<!-- Checkpoint: 2026-03-16 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
-
-<!-- Checkpoint: 2026-03-23 - docs(runbook): add client incident response playbook for public bucket alerts -->
-
-<!-- Checkpoint: 2026-03-29 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->
-
-<!-- Checkpoint: 2026-04-02 - sec(lifecycle): automate lifecycle management rule audit for client compliance archive -->
-
-<!-- Checkpoint: 2026-08-17 - sec(exfiltration-prevention): apply VPC-SC perimeter policy on client analytical buckets -->

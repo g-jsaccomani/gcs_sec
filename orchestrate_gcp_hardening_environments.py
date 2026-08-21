@@ -154,19 +154,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# Audit checkpoint [2026-03-07]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-03-16]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-06-24]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-07-03]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-07-06]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-07-08]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-08-14]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-08-18]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage

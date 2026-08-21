@@ -98,19 +98,3 @@ def audit_firewall_rules():
 
 if __name__ == "__main__":
     audit_firewall_rules()
-
-# Audit checkpoint [2026-03-16]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-04-21]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-04-22]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-05-08]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-06-25]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-06-30]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-07-24]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-07-30]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone

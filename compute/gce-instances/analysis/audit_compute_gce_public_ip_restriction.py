@@ -100,21 +100,3 @@ def audit_public_ips():
 
 if __name__ == "__main__":
     audit_public_ips()
-
-# Audit checkpoint [2025-12-17]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2025-12-22]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2025-12-23]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-01-03]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-02-06]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-02-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-03-20]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-05-13]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-06-22]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM

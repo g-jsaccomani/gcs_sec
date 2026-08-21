@@ -97,25 +97,3 @@ def audit_sa_keys():
 
 if __name__ == "__main__":
     audit_sa_keys()
-
-# Audit checkpoint [2025-12-15]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2025-12-30]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-02-23]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-02-26]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-04-13]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-06-05]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-06-09]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-06-15]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-07-24]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-08-13]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-08-20]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone

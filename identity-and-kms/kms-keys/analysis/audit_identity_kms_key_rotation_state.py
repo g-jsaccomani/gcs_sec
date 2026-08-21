@@ -100,21 +100,3 @@ def audit_kms_rotation():
 
 if __name__ == "__main__":
     audit_kms_rotation()
-
-# Audit checkpoint [2025-12-09]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-01-26]: fix(permissions): revoke legacy ACL permissions across client data ingestion buckets
-
-# Audit checkpoint [2026-02-20]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-03-20]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
-
-# Audit checkpoint [2026-03-27]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-04-08]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-04-28]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-05-04]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-08-07]: fix(bucket-retention): fix retention lock validation script for external financial client

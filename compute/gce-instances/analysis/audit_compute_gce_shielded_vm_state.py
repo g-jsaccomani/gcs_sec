@@ -97,15 +97,3 @@ def audit_shielded_vms():
 
 if __name__ == "__main__":
     audit_shielded_vms()
-
-# Audit checkpoint [2026-04-01]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-06-09]: feat(dlp-scan): integrate Cloud DLP automatic inspection for client sensitive uploads
-
-# Audit checkpoint [2026-06-18]: feat(iam-hardening): implement uniform bucket-level access enforcer for client landing zone
-
-# Audit checkpoint [2026-06-26]: fix(bucket-retention): fix retention lock validation script for external financial client
-
-# Audit checkpoint [2026-07-21]: feat(audit-logging): configure Cloud Audit Logs streaming to client Splunk SIEM
-
-# Audit checkpoint [2026-08-12]: refactor(org-policy): optimize org policy constraints validator for client multi-tenant storage
